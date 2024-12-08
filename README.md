@@ -38,7 +38,7 @@ Welcome to the Inventory Management! This powerful and user-friendly responsive 
 
 ## Installation and Usage
 Follow these steps to set up and run the React application on your local machine:
-1. Clone the repository: ``
+1. Clone the repository: `https://github.com/dhanasekhardsv/inventory-management.git`
 2. Navigate to the project directory: `cd inventory-management`
 3. Install dependencies:
     1. Using npm: `npm install`
